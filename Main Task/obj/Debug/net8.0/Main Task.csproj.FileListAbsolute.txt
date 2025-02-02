@@ -1,0 +1,14 @@
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\bin\Debug\net8.0\Main Task.exe
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\bin\Debug\net8.0\Main Task.deps.json
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\bin\Debug\net8.0\Main Task.runtimeconfig.json
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\bin\Debug\net8.0\Main Task.dll
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\bin\Debug\net8.0\Main Task.pdb
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\obj\Debug\net8.0\Main Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\obj\Debug\net8.0\Main Task.AssemblyInfoInputs.cache
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\obj\Debug\net8.0\Main Task.AssemblyInfo.cs
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\obj\Debug\net8.0\Main Task.csproj.CoreCompileInputs.cache
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\obj\Debug\net8.0\Main Task.dll
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\obj\Debug\net8.0\refint\Main Task.dll
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\obj\Debug\net8.0\Main Task.pdb
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\obj\Debug\net8.0\Main Task.genruntimeconfig.cache
+C:\Users\NanoChip\source\repos\Bank System Task\Main Task\obj\Debug\net8.0\ref\Main Task.dll

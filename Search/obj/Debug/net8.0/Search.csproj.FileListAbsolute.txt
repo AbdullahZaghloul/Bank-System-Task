@@ -1,0 +1,14 @@
+C:\Users\NanoChip\source\repos\Bank System Task\Search\bin\Debug\net8.0\Search.exe
+C:\Users\NanoChip\source\repos\Bank System Task\Search\bin\Debug\net8.0\Search.deps.json
+C:\Users\NanoChip\source\repos\Bank System Task\Search\bin\Debug\net8.0\Search.runtimeconfig.json
+C:\Users\NanoChip\source\repos\Bank System Task\Search\bin\Debug\net8.0\Search.dll
+C:\Users\NanoChip\source\repos\Bank System Task\Search\bin\Debug\net8.0\Search.pdb
+C:\Users\NanoChip\source\repos\Bank System Task\Search\obj\Debug\net8.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NanoChip\source\repos\Bank System Task\Search\obj\Debug\net8.0\Search.AssemblyInfoInputs.cache
+C:\Users\NanoChip\source\repos\Bank System Task\Search\obj\Debug\net8.0\Search.AssemblyInfo.cs
+C:\Users\NanoChip\source\repos\Bank System Task\Search\obj\Debug\net8.0\Search.csproj.CoreCompileInputs.cache
+C:\Users\NanoChip\source\repos\Bank System Task\Search\obj\Debug\net8.0\Search.dll
+C:\Users\NanoChip\source\repos\Bank System Task\Search\obj\Debug\net8.0\refint\Search.dll
+C:\Users\NanoChip\source\repos\Bank System Task\Search\obj\Debug\net8.0\Search.pdb
+C:\Users\NanoChip\source\repos\Bank System Task\Search\obj\Debug\net8.0\Search.genruntimeconfig.cache
+C:\Users\NanoChip\source\repos\Bank System Task\Search\obj\Debug\net8.0\ref\Search.dll
