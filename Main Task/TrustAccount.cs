@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace Main_Task
 {
-    internal class TrustAccount:Account
+    internal class TrustAccount:SavingsAccount
     {
-        public double InterestRate { get; set; }
         private int count = 3;
-        private int currentYear;
+        private DateTime currentYear = DateTime.Now ;
         public TrustAccount()
         {
             
@@ -37,35 +36,18 @@ namespace Main_Task
 
         public override bool Withdraw(double amount)
         {
-            double threashold = Balance * 20 / 100;
-            if(amount < threashold && count>0)
+            if (DateTime.Now.Year > currentYear.Year)
             {
-                if (count == 3)
-                {
-                    currentYear = DateTime.Now.Year;
-                    base.Withdraw(amount);
-                    count--;
-                    return true;
-                }
-                else
-                {
-                    if(currentYear != DateTime.Now.Year)
-                    {
-                        currentYear = DateTime.Now.Year;
-                        count = 3;
-                        
-                    }
-                    if(currentYear == DateTime.Now.Year)
-                    {
-                        base.Withdraw(amount);
-                        count--;
-                    }
-                     return true;
-                }
-
+                count = 3;
+                currentYear = DateTime.Now;
             }
-            else
-                return false;
+            if (amount < (Balance * 20 / 100) && count > 0 && Balance >= amount)
+            {
+                count--;
+                return base.Withdraw(amount);
+               
+            } 
+            return false;
 
         }
 
