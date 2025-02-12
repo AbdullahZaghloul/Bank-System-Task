@@ -36,7 +36,8 @@ namespace Main_Task
 
         public override bool Withdraw(double amount)
         {
-            if (DateTime.Now.Year > currentYear.Year)
+            if (DateTime.Now.Year > currentYear.Year &&
+                DateTime.Now.Month >= currentYear.Month && DateTime.Now.Day>=currentYear.Day)
             {
                 count = 3;
                 currentYear = DateTime.Now;
